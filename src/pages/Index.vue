@@ -5,6 +5,7 @@
     <bio/>
     <discographie/>
     <contact/>
+    <sitefooter/>
   </Layout>
 </template>
 
@@ -13,16 +14,20 @@ import actus from '~/components/actus.vue'
 import dates from '~/components/dates.vue'
 import bio from '~/components/bio.vue'
 import contact from '~/components/contact.vue'
+import discographie from '~/components/discographie.vue'
+import sitefooter from '~/components/sitefooter.vue'
 
 export default {
 components: {
     actus,
     dates,
     bio,
-    contact
+    contact,
+    discographie,
+    sitefooter
   },
   metaInfo: {
-    title: 'Hello, world!'
+    title: 'Just for Swing : 3 frères, du Jazz... et du Swing !'
   }
 }
 </script>

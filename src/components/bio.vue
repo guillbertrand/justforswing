@@ -1,8 +1,8 @@
 <template>
-  <div class="py-10 w-full text-primary-900 bg-accent-50" id="bio">
-  <div class="max-w-5xl mx-auto">
-    <h2 class="text-4xl mb-4 font-display">Biographie</h2>
-    <div class="text-justify">
+  <div class="w-full text-primary-900 text-blackJfs bg-accent-50" id="bio">
+  <div class="p-5 lg:p-20  container mx-auto">
+    <h2 class="text-4xl mb-4 font-aleo font-bold">Biographie</h2>
+    <div class="text-justify font-open">
       <p class="mb-5">
         <strong>Les frères Bertrand</strong> ne sont pas nés dans la marmite du
         Jazz et pourtant, depuis tout jeune, ils n’en démordent pas… Après des

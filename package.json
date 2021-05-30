@@ -7,7 +7,10 @@
     "build": "gridsome build"
   },
   "dependencies": {
-    "gridsome": "^0.7.0"
+    "@fontsource/aleo": "^4.3.0",
+    "@fontsource/open-sans": "^4.3.0",
+    "gridsome": "^0.7.0",
+    "moment": "^2.29.1"
   },
   "devDependencies": {
     "autoprefixer": "^9.8.6",
