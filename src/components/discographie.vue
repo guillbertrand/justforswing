@@ -7,7 +7,7 @@
         <div class="w-full lg:w-2/3 pr-10">
           <h3 class="text-3xl font-aleo text-yellowJfs">Primo</h3>
           <div class="cadreJfs">
-          <blockquote  class="font-open italic mt-5 text-xl text-white">
+          <blockquote  class="font-open italic mt-5 text-base lg:text-xl text-white">
       
           "Une musique ouverte, déjà pleine de maturité avec de savants mélanges, un bel hommage à la musique du voyage… et à Django !"
           </blockquote>
@@ -33,7 +33,7 @@
              <div class="w-full lg:w-2/3 pr-10">
           <h3 class="text-3xl font-aleo text-yellowJfs">Charivari</h3>
           <div class="cadreJfs">
-          <blockquote  class="font-open italic mt-5 text-xl text-white">
+          <blockquote  class="font-open italic mt-5 text-base lg:text-xl text-white">
         
           "De la bonne musique, originale, nouvelle, un régal quoi. Et quelle interprétation ! Comme le disent si bien les français « la classe ! ». Et tellement bien joué ! Et les arrangements ! Wouah ! Brillants ! Ce qu’ont créé ces gars là vaut vraiment la peine d’être écouté."</blockquote>
           <p style="text-align:right"><a href="http://www.bielballestertrio.com/BBT/WELCOME.html" target="_blank"><strong class="font-aleo text-3xl">Biel Ballester</strong></a><small class="text-xs">&nbsp;&nbsp;Novembre 2015</small></p>

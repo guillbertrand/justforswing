@@ -4,7 +4,7 @@
   <header class="z-50 text-white absolute  w-full">
       <nav class="flex container mx-auto px-5 lg:px-20 py-4 flex-row justify-center lg:justify-between text-base z-50">   
         <a href="/" class="z-50 flex flex-col text-center">
-          <span class="tracking-widest font-open leading-none text-sm lg:text-xl mt-16 lg:mt-0" >Les frères Bertrand</span>
+          <span class="tracking-widest font-open leading-none text-sm lg:text-xl mt-12 lg:mt-0" >Les frères Bertrand</span>
               <h1 class="text-4xl lg:text-6xl  font-aleo uppercase leading-none" style="line-height:0.8em">
             Just for Swing
             </h1>
