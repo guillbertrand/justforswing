@@ -27,16 +27,8 @@
         </div>
       </div>
       <div class="my-5  w-full flex-row flex">
-                <div class="w-full lg:w-1/3">
-        <iframe
-          src="https://open.spotify.com/embed/album/6pw8Wb4WXAuWnptxNetd0N"
-          width="300"
-          height="380"
-          frameborder="0"
-          allowtransparency="true"
-          allow="encrypted-media"
-        ></iframe></div>
-             <div class="w-full lg:w-2/3 pl-10">
+               
+             <div class="w-full lg:w-2/3 pr-10">
           <h3 class="text-3xl font-aleo text-white">Charivari</h3>
           <blockquote  class="font-aleo italic mt-5">
                 <p>         
@@ -47,12 +39,23 @@
                     </p>
                     <p class="font-bold mt-5">Sortie officielle du 2ème album le 10 décembre 2015</p>
         </div>
+         <div class="w-full lg:w-1/3">
+        <iframe
+          src="https://open.spotify.com/embed/album/6pw8Wb4WXAuWnptxNetd0N"
+          width="300"
+          height="380"
+          frameborder="0"
+          allowtransparency="true"
+          allow="encrypted-media"
+        ></iframe></div>
 
       </div>
       <div class="my-5  w-full flex-row flex">
                 <div class="w-full lg:w-2/3 pr-10">
-          <h3 class="text-3xl font-aleo text-white">Noël en Jazz !</h3>
-  
+          <h3 class="text-3xl font-aleo text-white mb-10">Noël en Jazz !</h3>
+   <p>         
+          C’est en 2015 que les frères Bertrand  décident de créer un répertoire dédié aux plus belles mélodies de Noël. En collaboration avec Le Grand Parc du Puy du Fou®, ils se produisent trois années consécutives sur la scène enneigée de la Halle Renaissance, à l’occasion du Grand Noël du Puy du Fou®.<br><br>La rencontre avec Matthias Hulot  leur donne l’occasion d’explorer de nouveaux sons, de peaufiner leurs arrangements pour finalement sortir un album 11 titres  consacré à la féérie de Noël, en fin d’année 2017. Vous y retrouverez 9 des plus grands classiques de Noël, revisités par le claquant des guitares Selmer , la rondeur de la contrebasse et les envolées mélodiques de la clarinette  ! 2 standards de jazz trouvent également leur place à la fin de ce disque, sans doute pour vous rappeler les racines du trio familial…
+                    </p>
         </div>
         <div class="w-full lg:w-1/3">
         <iframe

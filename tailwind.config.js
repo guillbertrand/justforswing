@@ -4,13 +4,13 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        blackMpc: "#272727", 
-        blackJfs: "#202124",
-        whiteJfs: '#bdc1c6'
+        blackJfs: "#14205a",
+        whiteJfs: '#bdc1c6',
+        yellowJfs: '#ffca3f'
       },
       fontFamily: {
-        aleo: ["Aleo", "serif"],
-        open: ["Open Sans", "sans-serif"]
+        aleo: ["Medula One", "serif"],
+        open: ["Prata", "sans-serif"]
       }
     }
   },

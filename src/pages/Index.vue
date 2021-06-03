@@ -28,6 +28,15 @@ components: {
   },
   metaInfo: {
     title: 'Just for Swing : 3 frères, du Jazz... et du Swing !'
+  },
+  mounted() {
+    if (!process.isClient) return;
+    var WebFont = require('webfontloader');
+    WebFont.load({
+      google: {
+        families: ['Prata', 'Medula One']
+      }
+    });
   }
 }
 </script>

@@ -7,15 +7,17 @@
     "build": "gridsome build"
   },
   "dependencies": {
-    "@fontsource/aleo": "^4.3.0",
-    "@fontsource/open-sans": "^4.3.0",
     "gridsome": "^0.7.0",
-    "moment": "^2.29.1"
+    "moment": "^2.29.1",
+    "vue-scrollto": "^2.20.0",
+    "webfontloader": "^1.6.28"
   },
   "devDependencies": {
     "autoprefixer": "^9.8.6",
     "gridsome-plugin-tailwindcss": "^4.1.1",
+    "node-sass": "^6.0.0",
     "postcss": "^7.0.35",
+    "sass-loader": "^10.2.0",
     "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.1.2"
   }
 }
