@@ -1,7 +1,7 @@
 <template>
   <div class=" bg-blackJfs text-white" id="dates">
-    <div class="container mx-auto p-5 lg:p-20 ">
-        <h2 class="text-4xl mb-4 font-aleo font-bold">Dates</h2>
+    <div class="container mx-auto p-10 lg:p-20 ">
+        <h2 class="text-4xl mb-4 font-aleo">Dates</h2>
         <div class="mb-10 font-open">
           <div v-for="gig in gigs.slice(-10)" :key="gig.ID" > 
                 <div v-if="displayGig(gig)" class="flex flex-col mb-4 text-white justify-center">
@@ -22,7 +22,7 @@
             </div>
 
         </div>
-        <a href="/historique/" class="border-2 border-white px-5 py-3 rounded-md hover:underline">Voir toutes les dates</a>
+        <a href="/historique/" class="btnJfs">Voir toutes les dates</a>
         </div>
 
 

@@ -1,7 +1,7 @@
 <template>
   <div class="w-full text-primary-900 text-blackJfs bg-accent-50" id="bio">
-  <div class="p-5 lg:p-20  container mx-auto">
-    <h2 class="text-4xl mb-4 font-aleo font-bold">Biographie</h2>
+  <div class="p-10 lg:p-20  container mx-auto">
+    <h2 class="text-4xl mb-4 font-aleo">Biographie</h2>
     <div class="text-justify font-open">
       Les frères Bertrand ne sont pas nés dans la marmite du Jazz et pourtant, depuis tout jeune, ils n’en démordent pas… Après des débuts « électriques » au son du garage, les trois frangins, autodidactes et polyinstrumentistes, ont tout mis en oeuvre pour faire de leurs passions une profession. Adeptes du « self-made », c’est autour de la musique que leurs talents s’articulent, mêlant composition, graphisme et photographie. Ils n’ont qu’une devise : trois frères, du jazz… et du swing !
       <br><br>

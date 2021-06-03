@@ -1,7 +1,7 @@
 <template>
 <footer>
     <div class="keywords container mx-auto p-4 lg:pt-20 lg:px-20 lg:pb-5 ">
-               <ul class="flex flex-row text-xs flex-wrap text-gray-300 justify-center font-open">
+               <ul style="font-size:11px" class="flex flex-row flex-wrap text-gray-300 justify-center font-open">
                   <li class="mr-2">Jazz manouche</li>
                   <li class="mr-2">Swing</li>
                   <li class="mr-2">Django Reinhardt</li>

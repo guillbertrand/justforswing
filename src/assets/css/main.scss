@@ -11,3 +11,45 @@ h3 {
   font-size: 3rem!important;
   margin-bottom: 1.5rem!important;
 }
+
+.cadreJfs {
+  border-width: 2px;
+  border-color: #fff;
+  padding:15px;
+  box-shadow:7px 7px 0 -2px #14205a, 7px 7px 0 0 #fff;
+}
+.btnJfs {
+  border-width: 2px;
+  border-color: #fff;
+  padding:15px;
+  font-weight: bold;
+  box-shadow:7px 7px 0 -2px #14205a, 7px 7px 0 0 #fff;
+  &:hover {
+    background-color: #fff;
+    color:#14205a;
+  }
+}
+
+.btnJfsSmall {
+  border-width: 1px;
+  border-color: #fff;
+  padding:7px;
+  font-weight: bold;
+  box-shadow:5px 5px 0 -1px #14205a, 5px 5px 0 0 #fff;
+  &:hover {
+    background-color: #fff;
+    color:#14205a;
+  }
+}
+
+.btnJfsDark {
+  border-width: 2px;
+  border-color: #14205a;
+  padding:15px;
+  font-weight: bold;
+  box-shadow:7px 7px 0 -2px #fff, 7px 7px 0 0 #14205a;
+  &:hover {
+    background-color: #14205a;
+    color:#fff;
+  }
+}
