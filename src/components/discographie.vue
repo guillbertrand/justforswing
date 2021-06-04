@@ -4,7 +4,7 @@
     <h2 class="text-4xl mb-4 font-aleo">Discographies</h2>
     <div class="flex flex-col justify-between items-center text-whiteJfs">
       <div class="my-5 w-full flex-col lg:flex-row flex">
-        <div class="w-full lg:w-2/3 pr-10">
+        <div class="w-full lg:w-2/3 lg:pr-10">
           <h3 class="text-3xl font-aleo text-yellowJfs">Primo</h3>
           <div class="cadreJfs">
           <blockquote  class="font-open italic mt-5 text-base lg:text-xl text-white">
@@ -30,7 +30,7 @@
       </div>
       <div class="my-10  w-full flex-col lg:flex-row flex">
                
-             <div class="w-full lg:w-2/3 pr-10">
+             <div class="w-full lg:w-2/3 lg:pr-10">
           <h3 class="text-3xl font-aleo text-yellowJfs">Charivari</h3>
           <div class="cadreJfs">
           <blockquote  class="font-open italic mt-5 text-base lg:text-xl text-white">
@@ -55,7 +55,7 @@
 
       </div>
       <div class="my-10  w-full flex-col lg:flex-row flex">
-                <div class="w-full lg:w-2/3 pr-10">
+                <div class="w-full lg:w-2/3 lg:pr-10">
           <h3 class="text-3xl font-aleo text-yellowJfs mb-10">Noël en Jazz !</h3>
            <div class="cadreJfs text-sm">
    <p>         

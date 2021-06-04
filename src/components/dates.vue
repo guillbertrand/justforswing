@@ -21,7 +21,7 @@
             </div>
 
         </div>
-        <a href="/historique/" class="btnJfs">Voir toutes les dates</a>
+        <g-link to="/historique/" class="btnJfs">Voir toutes les dates</g-link>
         </div>
 
 
