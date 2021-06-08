@@ -59,7 +59,7 @@ export default {
   },
   methods: {
     displayGig(gig) {
-      return gig.TYPE != 'R' && (moment(gig.DATE)>=moment());
+      return gig.TYPE != 'R' && (moment(gig.DATE)>=moment() && moment(gig.DATE) <= moment().add(4, 'M'));
     }, 
     displayGigTitle(gig) {
       switch(gig.TYPE) {
