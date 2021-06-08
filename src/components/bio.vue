@@ -13,7 +13,7 @@ Un an plus tard, c'est la rencontre avec Matthias Hulot qui donnera l'occasion a
 <br><br>
 2021 sera une année charnière. Suite à la triste disparition de Max Bédouelle, le violoniste du groupe, le trio se plonge dans la composition et annonce un nouveau projet. Un nouvel album est donc bel et bien en préparation ! Tantôt entouré d’Henrik André au violon et de Josselin Bellesoeur aux percussions, ils reviennent sur scène pour vous présenter un pêle-mêle de standards et de compositions originales.
     </div>
-    <div class="relative mt-10 mx-32">
+    <div class="relative mt-10 mx-5 lg:mx-32">
       <div class="bg-blackJfs opacity-30 absolute h-full w-full"/>
       <g-image src="~/assets/images/presta_justforswing_nb.jpg" fit="contain" class="z-0 overflow-hidden"></g-image>
     </div>
