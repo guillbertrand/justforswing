@@ -3860,12 +3860,32 @@
     "LIEN": "https://saisonculturelle.agglo-saumur.fr/la-saison/just-for-swing-quintet"
   },
   {
+    "TYPE": "E",
+    "DATE": "2021-07-01",
+    "LIEU": "",
+    "VILLE": "Angers",
+    "EVENEMENT": "Concert privé",
+    "FORMATION": "en duo",
+    "HORAIRES": "",
+    "LIEN": ""
+  },
+  {
     "TYPE": "M",
     "DATE": "2021-07-03",
     "LIEU": "Château de la Rairie",
     "VILLE": "Pont Saint Martin",
     "EVENEMENT": "Mariage",
     "FORMATION": "en trio",
+    "HORAIRES": "",
+    "LIEN": ""
+  },
+   {
+    "TYPE": "E",
+    "DATE": "2021-07-05",
+    "LIEU": "",
+    "VILLE": "Angers",
+    "EVENEMENT": "Concert privé",
+    "FORMATION": "en duo",
     "HORAIRES": "",
     "LIEN": ""
   },
