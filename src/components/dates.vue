@@ -42,7 +42,6 @@
           </div>
         </div>
       </div>
-      <g-link to="/historique/" class="btnJfs">Voir toutes les dates</g-link>
     </div>
   </div>
 </template>
