@@ -3839,12 +3839,32 @@
     "HORAIRES": "",
     "LIEN": ""
   },
+    {
+    "TYPE": "M",
+    "DATE": "2020-10-15",
+    "LIEU": "La Quincaillerie",
+    "VILLE": "Les Herbiers",
+    "EVENEMENT": "Concert",
+    "FORMATION": "en trio",
+    "HORAIRES": "",
+    "LIEN": ""
+  },
   {
     "TYPE": "M",
     "DATE": "2021-05-22",
     "LIEU": "",
     "VILLE": "Pornic",
     "EVENEMENT": "Mariage",
+    "FORMATION": "en trio",
+    "HORAIRES": "",
+    "LIEN": ""
+  },
+   {
+    "TYPE": "F",
+    "DATE": "2021-06-14",
+    "LIEU": "",
+    "VILLE": "Nantes",
+    "EVENEMENT": "Soirée H Arena",
     "FORMATION": "en trio",
     "HORAIRES": "",
     "LIEN": ""
@@ -3861,20 +3881,10 @@
   },
   {
     "TYPE": "P",
-    "DATE": "2021-07-01",
-    "LIEU": "",
-    "VILLE": "Angers",
-    "EVENEMENT": "Privé",
-    "FORMATION": "en duo",
-    "HORAIRES": "",
-    "LIEN": ""
-  },
-  {
-    "TYPE": "M",
     "DATE": "2021-07-03",
     "LIEU": "Château de la Rairie",
-    "VILLE": "Pont Saint Martin",
-    "EVENEMENT": "Mariage",
+    "VILLE": "Pont-Saint-Martin",
+    "EVENEMENT": "Privé",
     "FORMATION": "en trio",
     "HORAIRES": "",
     "LIEN": ""
@@ -3899,6 +3909,26 @@
     "HORAIRES": "",
     "LIEN": ""
   },
+    {
+    "TYPE": "M",
+    "DATE": "2021-07-07",
+    "LIEU": "Château de la Citardière",
+    "VILLE": "Mervent",
+    "EVENEMENT": "Privé",
+    "FORMATION": "en trio",
+    "HORAIRES": "",
+    "LIEN": ""
+  },
+   {
+    "TYPE": "M",
+    "DATE": "2021-07-08",
+    "LIEU": "AXA",
+    "VILLE": "Angers",
+    "EVENEMENT": "Privé",
+    "FORMATION": "en duo",
+    "HORAIRES": "",
+    "LIEN": ""
+  },
   {
     "TYPE": "M",
     "DATE": "2021-07-10",
@@ -3907,6 +3937,16 @@
     "EVENEMENT": "Mariage",
     "FORMATION": "en trio",
     "HORAIRES": "12h30-14h30",
+    "LIEN": ""
+  },
+   {
+    "TYPE": "M",
+    "DATE": "2021-07-14",
+    "LIEU": "Le Camp",
+    "VILLE": "Saffré",
+    "EVENEMENT": "Mariage",
+    "FORMATION": "en duo",
+    "HORAIRES": "",
     "LIEN": ""
   },
   {
@@ -3931,10 +3971,20 @@
   },
   {
     "TYPE": "P",
-    "DATE": "2021-09-09",
+    "DATE": "2021-09-07",
     "LIEU": "",
-    "VILLE": "Thouars",
-    "EVENEMENT": "90 ans Saga Automobiles",
+    "VILLE": "Nantes",
+    "EVENEMENT": "Privé",
+    "FORMATION": "",
+    "HORAIRES": "",
+    "LIEN": ""
+  },
+  {
+    "TYPE": "P",
+    "DATE": "2021-09-08",
+    "LIEU": "Puy Du Fou",
+    "VILLE": "Les Epesses",
+    "EVENEMENT": "Privé",
     "FORMATION": "",
     "HORAIRES": "",
     "LIEN": ""
@@ -3946,6 +3996,15 @@
     "VILLE": "",
     "EVENEMENT": "Aniversaire",
     "FORMATION": "",
+    "HORAIRES": "",
+    "LIEN": ""
+  },{
+    "TYPE": "P",
+    "DATE": "2021-09-16",
+    "LIEU": "La Guinguette Les Nantais",
+    "VILLE": "Saint-Herblain",
+    "EVENEMENT": "Privé",
+    "FORMATION": "en duo",
     "HORAIRES": "",
     "LIEN": ""
   },
@@ -3970,6 +4029,66 @@
     "LIEN": ""
   },
   {
+    "TYPE": "P",
+    "DATE": "2021-09-23",
+    "LIEU": "CETIE",
+    "VILLE": "Saint-Julien-De-Concelles",
+    "EVENEMENT": "Privé",
+    "FORMATION": "en trio",
+    "HORAIRES": "",
+    "LIEN": ""
+  },
+  {
+    "TYPE": "M",
+    "DATE": "2021-09-25",
+    "LIEU": "La Clef des Champs",
+    "VILLE": "Saint-Laurent-Sur-Sèvre",
+    "EVENEMENT": "Mariage",
+    "FORMATION": "en quartet avec Henrik",
+    "HORAIRES": "",
+    "LIEN": ""
+  },
+  {
+    "TYPE": "P",
+    "DATE": "2021-09-26",
+    "LIEU": "",
+    "VILLE": "La-Haie-Fouassière",
+    "EVENEMENT": "Fouace & Muscadet",
+    "FORMATION": "en trio",
+    "HORAIRES": "",
+    "LIEN": ""
+  },
+   {
+    "TYPE": "P",
+    "DATE": "2021-09-26",
+    "LIEU": "La Guinguette Les Nantais",
+    "VILLE": "Saint-Herblain",
+    "EVENEMENT": "Concert",
+    "FORMATION": "en trio",
+    "HORAIRES": "",
+    "LIEN": ""
+  },
+   {
+    "TYPE": "P",
+    "DATE": "2021-10-01",
+    "LIEU": "Puy du Fou - Théâtre Molière",
+    "VILLE": "Les Epesses",
+    "EVENEMENT": "Privé",
+    "FORMATION": "en quartet avec Henrik",
+    "HORAIRES": "",
+    "LIEN": ""
+  },
+  {
+    "TYPE": "M",
+    "DATE": "2021-10-02",
+    "LIEU": "",
+    "VILLE": "Saint-Melaine-Sur-Aubance",
+    "EVENEMENT": "Privé",
+    "FORMATION": "en duo",
+    "HORAIRES": "",
+    "LIEN": ""
+  },
+  {
     "TYPE": "M",
     "DATE": "2021-10-02",
     "LIEU": "Château de la Barbinière",
@@ -3977,6 +4096,36 @@
     "EVENEMENT": "Mariage",
     "FORMATION": "en trio",
     "HORAIRES": "19h-21h",
+    "LIEN": ""
+  },
+  {
+    "TYPE": "M",
+    "DATE": "2021-10-23",
+    "LIEU": "",
+    "VILLE": "La Sebrandière",
+    "EVENEMENT": "Privé",
+    "FORMATION": "en duo",
+    "HORAIRES": "",
+    "LIEN": ""
+  },
+  {
+    "TYPE": "P",
+    "DATE": "2021-11-22",
+    "LIEU": "Le 18b",
+    "VILLE": "La Roche-Sur-Yon",
+    "EVENEMENT": "Privé",
+    "FORMATION": "en quartet avec Henrik",
+    "HORAIRES": "",
+    "LIEN": ""
+  },
+  {
+    "TYPE": "P",
+    "DATE": "2021-11-25",
+    "LIEU": "Saint-Gabriel",
+    "VILLE": "Saint-Laurent-Sur-Sèvre",
+    "EVENEMENT": "Privé",
+    "FORMATION": "en quartet avec Henrik",
+    "HORAIRES": "",
     "LIEN": ""
   },
   {
@@ -3991,7 +4140,7 @@
   },
   {
     "TYPE": "M",
-    "DATE": "2021-11-17",
+    "DATE": "2021-12-17",
     "LIEU": "Saint Laurent Sur Sèvre",
     "VILLE": "La Clef des Champs.",
     "EVENEMENT": "Mariage",
