@@ -4431,11 +4431,11 @@
 {
     "TYPE": "M",
     "DATE": "2022-07-30",
-    "LIEU": "",
-    "VILLE": "",
-    "EVENEMENT": "",
-    "FORMATION": "",
-    "HORAIRES": "",
+    "LIEU": "Château de la Rairie",
+    "VILLE": "Pont-Saint-Martin",
+    "EVENEMENT": "Concert privé",
+    "FORMATION": "trio",
+    "HORAIRES": "17h-19h",
     "LIEN": ""
   }
 ]
